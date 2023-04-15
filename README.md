@@ -17,6 +17,6 @@ mapping network responsible for film grain style generation, and a synthesis net
 style to a given content in a content-adaptive manner. All modules are trained jointly, thanks to dedicated loss functions, on a large
 and diverse dataset of pairs of grain-free and grainy images, made publicly available to the community. Quantitative and qualitative
 evaluations show that fidelity to the reference grain, diversity of grain styles as well as a perceptually pleasant grain synthesis are
-achieved, demonstrating that each module outperforms the state-of-the-art in the task it was designed for.\
+achieved, demonstrating that each module outperforms the state-of-the-art in the task it was designed for.
 
-This repository is currently under construction.
+## This repository is currently under construction.
